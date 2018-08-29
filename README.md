@@ -1,6 +1,6 @@
 # WestpacAssignment
 Checkout the files/folders with "Added the Project-Fx in westpac assessment" comment only and ignore other files.
-Intall latest verion of Java.
+Install latest verion of Java.
 Install eclipse latest version.
 Install maven eclipse plugin in eclipse.
 Install cucumber-eclipse plugin in eclipse.
