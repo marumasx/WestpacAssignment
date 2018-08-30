@@ -8,3 +8,4 @@ Import the downloaded project from gitub as 'Maven Project' to eclipse.
 All the source code is placed in 'src/test/java' in 'fx' Project.
 Make sure to change the Chrome/IE driver path to your local chrome driver path in 'fx.properties' before running it.
 There is a runner class under src/test/java->com.westpac.fx.runner->Runner_1.java. To run rigt click on'Runner_1.java' and select 'Run as java application'.
+After running, cucumber report will genereated under 'Target->Cucucmber->index.html'. Open 'index.html' in a webbrowser to see the report.
